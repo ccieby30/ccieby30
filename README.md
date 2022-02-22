@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ccieby30/ccieby30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![grab-landing-page](https://github.com/ccieby30/ccieby30/blob/main/GitHub%20Banner.gif)
 
 Here are some ideas to get you started:
 
