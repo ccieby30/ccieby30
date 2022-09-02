@@ -1,6 +1,6 @@
 ![grab-landing-page](https://github.com/ccieby30/ccieby30/blob/main/GitHub%20Banner.gif)
 
-I'm Deirra, Network Engineer, Content Creator and Community Builder. I have over 10 years of experince supporting and designing the innovative network solutions keeping businesses connected. My primary focuses are Networking (R&S), Data Center Networking and Cisco ISE. I'm currently expanding my skillset into security and network automation. You can follow what I'm learning on my Blog: [CCIE BY 30](https://www.ccieby30.com)
+I'm Deirra, Network Engineer, and Content Creator. I have over 10 years of experience supporting and designing innovative network solutions to keep businesses connected. My primary focuses are Networking (R&S), Data Center Networking, and Cisco ISE. I'm currently expanding my skillset into security and network automation. You can follow what I'm learning on my Blog: [CCIE BY 30](https://www.ccieby30.com)
 
 Connect with me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/ccieby30?style=social)](https://twitter.com/ccieby30)
 
