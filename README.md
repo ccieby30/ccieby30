@@ -8,7 +8,7 @@ Connect with me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/fo
 
 ### The Rundown
 - 🔭 I’m currently working on: Cisco DevNet Associate
-- 🌱 I’m currently learning: [DevNet Associate Fundamentals](https://developer.cisco.com/certification/fundamentals/)
+- 🌱 I’m currently learning: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 - 👯 I’m looking to collaborate on: Network Automation Projects
 - 🤔 I’m looking for help with: Python
 - 😄 Pronouns: She/Her
