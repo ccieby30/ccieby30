@@ -7,7 +7,7 @@ Connect with me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/fo
 ---
 
 ### The Rundown
-- 🌱 I’m currently learning: Data Camp AI Fundamentals 
+- 🌱 I’m currently learning: [Data Camp AI Fundamentals](https://github.com/ccieby30/AI)
 - 👯 I’m looking to collaborate on: Network Automation Projects, Security Automation, and AI.
 - 🤔 I’m looking for help with: Python, AI & Machine Learning
 - 😄 Pronouns: She/Her
